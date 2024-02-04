@@ -1,4 +1,4 @@
-# MICA
+# MICSA
 This is the code of MICSA: A Multi-strategy Integrated Chameleon Swarm Algorithm for Community Detection with a New Objective Function.
 
 # How to get started
